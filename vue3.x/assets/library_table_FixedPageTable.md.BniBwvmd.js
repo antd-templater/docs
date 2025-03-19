@@ -1,1 +1,0 @@
-import{_ as o}from"./chunks/FixedPageTable.md_vue_type_script_setup_true_lang.B72BuwY0.js";import{a as _}from"./chunks/FixedPageTable.md_vue_type_script_setup_true_lang.B72BuwY0.js";import"./chunks/theme.CI87xO6q.js";import"./chunks/framework.DP10PdBE.js";export{_ as __pageData,o as default};
